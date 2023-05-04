@@ -1,0 +1,5 @@
+Tareas en este trabajo: 
+
+Fidel Acero: Enemigos, interfaces del menu del juego.
+Felipe Rodriguez: Player, interfaz del player.
+Cesar Alvarez: Mapa.
